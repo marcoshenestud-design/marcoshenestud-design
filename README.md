@@ -2,7 +2,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-Me chamo **Marcos Henrique**, tenho **20 anos** e sou natural do **interior do Maranhão**. Concluí o ensino médio no **IEMA – Escola Técnica de Referência do Maranhão**, onde cursei **Registro e Informação em Saúde**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Unicesumar**. Sou fascinado pelo mundo da **Tecnologia da Informação**, com foco especial na **área de dados**. Venho estudando continuamente e desenvolvendo projetos para fortalecer minha lógica de programação e minha base técnica.
+Me chamo Marcos Henrique, tenho **20 anos** e sou natural do **interior do Maranhão**. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão, onde cursei Registro e Informação em Saúde. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Unicesumar**. Sou fascinado pelo mundo da **Tecnologia da Informação**, com foco especial na **área de dados**. Venho estudando continuamente e desenvolvendo projetos para fortalecer minha lógica de programação e minha base técnica.
 
 ---
 
