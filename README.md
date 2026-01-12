@@ -22,6 +22,7 @@ Me chamo **Marcos Henrique**, tenho **20 anos** e sou natural do **interior do M
   <img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
+
 ---
 
 ### 🧠 Áreas de Interesse
