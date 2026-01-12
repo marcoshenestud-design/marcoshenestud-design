@@ -1,37 +1,76 @@
-## Marcos 👋
+# Marcos Henrique
 
-**Estudante de Análise e Desenvolvimento de Sistemas**
-
-Me chamo Marcos Henrique, tenho **20 anos** e sou natural do **interior do Maranhão**. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão, onde cursei Registro e Informação em Saúde. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Unicesumar**. Sou fascinado pelo mundo da **Tecnologia da Informação**, com foco especial na **área de dados**. Venho estudando continuamente e desenvolvendo projetos para fortalecer minha lógica de programação e minha base técnica.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=20&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas)
 
 ---
 
-### 🚀 Objetivos
-- Evoluir na área de **dados**
-- Desenvolver projetos práticos para consolidar a lógica de programação
-- Aprimorar conhecimentos em **Python, SQL e ferramentas de análise de dados**
-- Construir um portfólio sólido no GitHub
+## 🧑‍💻 Sobre mim
+
+Me chamo **Marcos Henrique**, tenho **20 anos** e sou natural do **interior do Maranhão**, cidade Santa Inês. Concluí o ensino médio no **IEMA – Escola Técnica de Referência do Maranhão**, com o curso de **Registro e Informação em Saúde**. Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Unicesumar**. Sou fascinado por **Tecnologia da Informação**, especialmente pela **área de dados**. Venho estudando constantemente e desenvolvendo projetos para aprimorar minha lógica de programação e base técnica.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🎯 Objetivos
 
-<p align="left">
-  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</p>
+- Evoluir na área de **Análise de Dados**
+- Fortalecer a **lógica de programação**
+- Aprofundar conhecimentos em **Python**
+- Dominar **SQL / MySQL**
+- Criar dashboards no **Power BI**
+- Construir um portfólio sólido no **GitHub**
 
 ---
 
-### 🧠 Áreas de Interesse
-- Análise de Dados  
-- Lógica de Programação  
+## 🧠 Linguagens & Tecnologias
+
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+/>
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML5"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
+
+<img
+  align="left"
+  alt="CSS"
+  title="CSS3"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
+
+<img
+  align="left"
+  alt="MySQL"
+  title="MySQL"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+/>
+
+<br/>
+<br/>
+
+---
+
+## 📊 Áreas de Interesse
+
+- Análise de Dados   
 - Banco de Dados  
 - Visualização de Dados  
 - Tecnologia e Inovação  
 
 ---
 
-⭐ *Sempre buscando evoluir um pouco a cada dia.*
+⭐ *Sempre aprendendo, sempre evoluindo.*
