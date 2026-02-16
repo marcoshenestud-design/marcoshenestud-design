@@ -4,13 +4,13 @@
 
 ---
 
-## 🙋 Sobre mim
+## Sobre mim
 
 Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, da cidade de Santa Inês. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão, com o curso de Registro e Informação em Saúde. Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar e um curso técnico em Desenvolvimento de Sistemas pelo SENAC. Sou fascinado por Tecnologia da Informação, com foco na área de dados, e estudo constantemente para evoluir minha lógica de programação e conhecimentos técnicos.
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Evoluir na área de **Análise de Dados**
 - Fortalecer a **lógica de programação**
@@ -21,7 +21,7 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
 
 ---
 
-## 🤖 Linguagens & Tecnologias
+## Linguagens & Tecnologias
 
 <img
   align="left"
@@ -64,16 +64,14 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
 
 ---
 
-## 📊 Áreas de Interesse
+## Áreas de Interesse
 
 - Análise de Dados   
 - Banco de Dados  
 - Visualização de Dados  
-- Tecnologia e Inovação  
 
 ---
 
-⭐ *Sempre aprendendo, sempre evoluindo.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcoshenestud-design/marcoshenestud-design/output/pacman-contribution-graph-dark.svg">
