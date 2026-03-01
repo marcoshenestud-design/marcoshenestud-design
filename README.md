@@ -49,6 +49,15 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
 
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+
 <br/>
 <br/>
 
