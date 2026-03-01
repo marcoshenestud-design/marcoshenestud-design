@@ -1,23 +1,13 @@
 # Marcos Henrique
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=20&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=20&width=600&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Ciência+da+Computação)
 
 ---
 
 ## Sobre mim
 
-Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, da cidade de Santa Inês. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão, com o curso de Registro e Informação em Saúde. Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar e um curso técnico em Desenvolvimento de Sistemas pelo SENAC. Sou fascinado por Tecnologia da Informação, com foco na área de dados, e estudo constantemente para evoluir minha lógica de programação e conhecimentos técnicos.
+Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, da cidade de Santa Inês. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão, com o curso de Registro e Informação em Saúde. Atualmente curso Ciência da Computação na FIAP e um curso técnico em Desenvolvimento de Sistemas pelo SENAC.
 
----
-
-## Objetivos
-
-- Evoluir na área de **Análise de Dados**
-- Fortalecer a **lógica de programação**
-- Aprofundar conhecimentos em **Python**
-- Dominar **SQL / MySQL**
-- Criar dashboards no **Power BI**
-- Construir um portfólio sólido no **GitHub**
 
 ---
 
