@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, da cidade de Santa Inês. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão, com o curso de Registro e Informação em Saúde. Atualmente curso Ciência da Computação na FIAP e um curso técnico em Desenvolvimento de Sistemas pelo SENAC.
+Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, da cidade de Santa Inês. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão. Atualmente curso Ciência da Computação na FIAP e um curso técnico em Desenvolvimento de Sistemas pelo SENAC.
 
 
 ---
