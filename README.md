@@ -42,11 +42,11 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
 
 <img
   align="left"
-  alt="MySQL"
-  title="MySQL"
+  alt="PostgreSQL"
+  title="PostgreSQL"
   width="35px"
   style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
 
 <br/>
