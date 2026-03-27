@@ -11,7 +11,7 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
 
 ---
 
-## Linguagens & Tecnologias
+## Linguagens | Tecnologias
 
 <img
   align="left"
@@ -52,13 +52,7 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
 <br/>
 <br/>
 
----
 
-## Áreas de Interesse
-
-- Análise de Dados   
-- Banco de Dados  
-- Visualização de Dados  
 
 ---
 
