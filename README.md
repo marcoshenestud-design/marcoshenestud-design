@@ -71,18 +71,18 @@ Olá! Sou o Marcos Henrique, tenho 21 anos e estou construindo minha trajetória
   align="left"
   alt="Power BI"
   title="Power BI"
-  width="35px"
+  width="28px"
   style="padding-right:10px;"
   src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
 />
 
-<img
-  align="left"
-  alt="Excel VBA"
-  title="Excel VBA"
-  width="35px"
-  style="padding-right:10px;"
-  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg"
+<img 
+  align="left" 
+  alt="Excel" 
+  title="Excel" 
+  width="40px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" 
 />
 
 <br/>
