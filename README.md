@@ -5,9 +5,10 @@
 ---
 
 ## Sobre mim
+🎓 Ciência da Computação @ FIAP |
+💻 Dev. de Sistemas @ SENAC
 
-Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, da cidade de Santa Inês. Concluí o ensino médio no IEMA – Escola Técnica de Referência do Maranhão. Atualmente curso Ciência da Computação na FIAP e um curso técnico em Desenvolvimento de Sistemas pelo SENAC.
-
+Olá! Sou o Marcos Henrique, tenho 21 anos e estou construindo minha trajetória em TI.
 
 ---
 
