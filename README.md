@@ -48,6 +48,41 @@ Me chamo Marcos Henrique, tenho 20 anos e sou natural do interior do Maranhão, 
   style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
+<img
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Power Automate"
+  title="Power Automate"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate-Colored.svg"
+/>
+
+<img
+  align="left"
+  alt="Power BI"
+  title="Power BI"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
+/>
+
+<img
+  align="left"
+  alt="Excel VBA"
+  title="Excel VBA"
+  width="35px"
+  style="padding-right:10px;"
+  src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg"
+/>
 
 <br/>
 <br/>
